@@ -1,6 +1,4 @@
 CrewConnect
-![CrewConnect](https://github.com/user-attachments/assets/29f7f856-75da-40d5-aca4-6ebbb404464b)
-
 
 CrewConnect is an internship project focused on delivering efficient crew management and seamless connectivity solutions for the maritime industry. The platform simplifies and automates critical processes including leave management, appointment scheduling, and crew coordination, ensuring smooth operations on and off vessels.
 
